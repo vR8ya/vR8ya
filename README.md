@@ -54,7 +54,7 @@ Let's connect, collaborate, and turn data into actionable insights! Feel free to
 ## 🧪 Featured Projects
 
 - **Aurora Bank Dashboard**  
-  🔗 [GitHub Repo](https://github.com/vR8ya/Aurora_Bank)  
+  🔗 [GitHub Repo](https://github.com/vR8ya/Aurora_Bank_Insights)  
   📌 Transaction insights from 150K+ records using Power BI & DAX
 
 - **Amazon Kindle Publication Analysis**  
@@ -62,7 +62,7 @@ Let's connect, collaborate, and turn data into actionable insights! Feel free to
   📌 SQL-based analysis of trends, genres, pricing patterns from 130K+ Kindle books
 
 - **Manufacturing Line Efficiency**  
-  🔗 [GitHub Repo](https://github.com/vR8ya/Manufacture)  
+  🔗 [GitHub Repo](https://github.com/vR8ya/Manufacturing-line-productivity)  
   📌 Identified 16% improvement opportunity through downtime analysis
 
 ---
